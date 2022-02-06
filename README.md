@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on a re-write of my bot in JavaScript
+- 🔭 I’m currently working on a my bot Darling!
 - 📫 How to reach me: Discord? EckigerLuca#0001
 - ⚡ Fun fact: I like raccoons
 
