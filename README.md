@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hey fellow human being 👋
 
 - 🔭 I’m currently working on my bot Darling!
 - 📫 Contact me via Discord (EckigerLuca#0001) or [join](https://discord.gg/tpUr7d3) my server ^^
