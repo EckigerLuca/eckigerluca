@@ -1,5 +1,4 @@
-# 💫 About Me:
-🔭 I’m currently working on my Discord Bot Darling!<br>💬 Ask me anything about discord.js or Bot Dashboards.<br>⚡ Fun fact: I love raccoons!<br>![ywp](https://user-images.githubusercontent.com/63116530/132997383-8106cfb5-4071-45f3-bde6-c42b4a3d35bf.gif)
+# 💫 About Me:![ywp](https://user-images.githubusercontent.com/63116530/132997383-8106cfb5-4071-45f3-bde6-c42b4a3d35bf.gif)
 
 
 ## 🌐 Socials:
